@@ -10,7 +10,7 @@ prime_factor_processor.py
 - writes text files for each value inputted through command line
 - checks if a value inputted has already been processed and retrieves from the "saved_output" files if already processed
 - prints out a list of prime factors in command line
-- write out a log file in the same location where the code is
+- writes out a log file in the same location where the code is
 - code can be run multiple times and will check the "saved_output" before writing/reading from saved
 
 prime_factor_tester.py
